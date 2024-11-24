@@ -1,0 +1,571 @@
+Title: Data Science for Beginners
+
+Subheadings:
+- Need for Data Science
+- Careers in Data Science
+- Data Science Life Cycle
+- Applications of Data Science
+- Prerequisites & Tools for Data Science
+- Section 1: Python Basic
+- Section 2: R Basic
+- Section 3: Data Analysis with Python
+- Section 4: Data Analysis with R
+- Section 5: Web Scraping
+- Section 6: Basic Stat Mathematics
+- Section 7: Machine Learning
+- Section 8: Deep Learning
+- Section 9: Natural Language Processing
+- FAQs on Data Science Tutorials for Beginners
+
+Paragraphs:
+Data Scienceis a domain that comprises many sub-domains such as artificial intelligence, machine learning, statistics, data visualization, and analytics as well as provides practical examples and exercises to help you apply these concepts in the real world. Over the past few years, there has been tremendous demand for data scientists. To improve business efficiency it becomes important to analyze the data.
+In this data science tutorial, we will provide a comprehensive overview of the core concepts, tools, and techniques used in the field of data science.
+Data Science is a field that involves extracting insights and knowledge from data using various techniques and tools. If you are a beginner in Data Science, here are some steps you can follow to get started:
+To kickstart your journey into Data Science and gain hands-on experience, consider enrolling in theData Science Live course. This course is designed for beginners, offering step-by-step guidance through the core concepts of Data Science, from data manipulation to machine learning. Learn from industry experts and build a strong foundation to excel in your data science career.
+In summary, learning Data Science involves programming, statistics, data visualization, machine learning, practice, learning from the community, and continuous learning. With dedication and consistent effort, you can become proficient in Data Science and start building solutions to real-world problems.
+By the end of this tutorial, you’ll have a solid understanding of the key concepts and tools used indata science for beginners, and be well on your way to becoming proficient in the field.
+Data Science for Beginners
+There are 4 major reasons why there is a need for data science in the existing world today.
+Data Science has been considered one of the most desirable jobs in the IT field today. The growth opportunities in data science jobs are comparatively high than in any other job. Companies are now focusing more on data science jobs to elevate their business goals which has also created a flood of data science jobs in the market.
+Some of the most notable jobs in data science are:-
+It is a methodology followed to solve the data science problem.
+There are many applications of data science are as follows:-
+To gain expertise in the field of data science. firstly, you need to have a strong foundation in various aspects of data science. which includes knowledge of query languages like:- SQL, programming languages like R and python, and as well as visualization tools like:- PowerBI, Quilsense, Quilview, and Tableau. Additionally, having a basic understanding of statistics for machine learning is crucial. To effectively apply machine learning algorithms, it is essential to practice and implement them with use cases relevant to your desired domain.
+Answer:
+Data science is a field that involves using techniques from statistics, mathematics, and computer science to analyze and draw insights from data.
+Answer:
+Data scientists typically need skills in statistics, machine learning, data visualization, and programming. Strong communication and critical thinking skills are also important.
+Answer:
+Some popular programming languages for data science include Python, R, and SQL. It’s also helpful to have some familiarity with other languages like Java and C++.
+Answer:
+Learning data science is an ongoing process that can take several months to several years, depending on your background and level of experience.
+Answer:
+Some common job titles in data science include data analyst, data scientist, machine learning engineer, and business intelligence analyst.
+
+Spans:
+is a domain that comprises many sub-domains such as artificial intelligence, machine learning, statistics, data visualization, and analytics as well as provides practical examples and exercises to help you apply these concepts in the real world. Over the past few years, there has been tremendous demand for data scientists. To improve business efficiency it becomes important to analyze the data.
+In this data science tutorial, we will provide a comprehensive overview of the core concepts, tools, and techniques used in the field of data science.
+Data Science is a field that involves extracting insights and knowledge from data using various techniques and tools. If you are a beginner in Data Science, here are some steps you can follow to get started:
+Learn Programming: Programming is a fundamental skill for Data Science. Python is the most commonly used programming language in Data Science, and it has several libraries that are useful for Data Science, such as NumPy, Pandas, and Scikit-learn. You can start by learning the basics of Python programming.
+Learn Statistics: Statistics is the foundation of Data Science. Understanding statistical concepts such as mean, median, variance, and standard deviation is crucial for working with data. You can start by learning the basics of statistics.
+Learn Data Visualization: Data visualization is an essential skill for Data Science. It helps to understand patterns and trends in data. There are several libraries in Python that are useful for Data Visualization, such as Matplotlib and Seaborn.
+Learn Machine Learning: Machine learning is the core of Data Science. It involves building models that can learn from data and make predictions. There are several types of machine learning algorithms, such as supervised learning, unsupervised learning, and reinforcement learning. You can start by learning the basics of machine learning.
+Practice with Projects: Practice is essential for learning Data Science. You can start by working on small projects such as data cleaning, data analysis, and machine learning models. Kaggle is a platform where you can find data science projects and competitions to practice your skills.
+Learn from the Community: The Data Science community is very active, and there are several resources available to learn from. You can join online communities such as Reddit, LinkedIn, or Twitter. You can also attend local Data Science meetups and events.
+Continuously Learn: Data Science is a rapidly evolving field, and new techniques and tools are constantly emerging. Therefore, it’s essential to keep learning and stay updated with the latest trends and developments in Data Science.
+To kickstart your journey into Data Science and gain hands-on experience, consider enrolling in the
+. This course is designed for beginners, offering step-by-step guidance through the core concepts of Data Science, from data manipulation to machine learning. Learn from industry experts and build a strong foundation to excel in your data science career.
+In summary, learning Data Science involves programming, statistics, data visualization, machine learning, practice, learning from the community, and continuous learning. With dedication and consistent effort, you can become proficient in Data Science and start building solutions to real-world problems.
+By the end of this tutorial, you’ll have a solid understanding of the key concepts and tools used in
+, and be well on your way to becoming proficient in the field.
+Need for Data Science
+There are 4 major reasons why there is a need for data science in the existing world today.
+are running today based on customer insight and that’s where data science comes from. With the help of data science, companies use Data Mining and sorting techniques to understand the area of interest of their users.
+Today, data science is being actively used to trim unstructured and unorganized data that also consumes less time.
+It helps in identifying the objective of a business and helps in reaching the goal (meanwhile it also helps in predicting the futuristic data based on the behavioural pattern)
+It empowers your organization by allocating the best of the best people within your workforce. It helps in
+out the candidates from different platforms and that proportionally saves a lot of time also the chances of hiring a good candidate become more powerful.
+Careers in Data Science
+Data Science has been considered one of the most desirable jobs in the IT field today. The growth opportunities in data science jobs are comparatively high than in any other job. Companies are now focusing more on data science jobs to elevate their business goals which has also created a flood of data science jobs in the market.
+Some of the most notable jobs in data science are:-
+Data Scientist,
+Data Architect,
+Data Administrator,
+Data Analyst,
+Business Analyst.
+Data Science Life Cycle
+It is a methodology followed to solve the data science problem.
+Business Understanding
+Data Understanding
+Preparation of Data
+Exploratory Data Analysis
+Data Modeling
+Model Evaluation
+Model Deployment
+Applications of Data Science
+There are many applications of data science are as follows:-
+Search Engines,
+Transport, Finance,
+E-Commerce,
+Health Care,
+Image Recognition,
+Targeting recommendations, etc.
+Prerequisites & Tools for Data Science
+To gain expertise in the field of data science. firstly, you need to have a strong foundation in various aspects of data science. which includes knowledge of query languages like:- SQL, programming languages like R and python, and as well as visualization tools like:- PowerBI, Quilsense, Quilview, and Tableau. Additionally, having a basic understanding of statistics for machine learning is crucial. To effectively apply machine learning algorithms, it is essential to practice and implement them with use cases relevant to your desired domain.
+Section 1: Python Basic
+Introduction of Python
+Taking input in Python
+Variables
+Operators
+Data Types
+Conditions
+Loops
+Functions
+Object-Oriented Programming
+Exception Handling
+Section 2: R Basic
+Introduction to R Programming Language
+Operators
+Keywords
+Data Types
+Decision Making – if, if-else, if-else-if ladder, nested if-else, and switch
+Loops (for, while, repeat)
+Functions
+Introduction to Object-Oriented Programming
+Classes
+Objects
+Encapsulation
+Polymorphism
+Inheritance
+Section 3: Data Analysis with Python
+What is Data Analysis
+Data Analysis using Python
+Steps of Data Analysis Process
+Importing Data
+Import Excel file with Pandas
+Import Text file with Pandas
+Read JSON Files with Pandas
+Data processing
+Pandas DataFrame
+Overview of Data Cleaning
+Slicing, Indexing, Manipulating and Cleaning Pandas Dataframe
+Working with Missing Data in Pandas
+Identify and Handle Missing Values
+Data visualization
+Why is It Important?
+Data Visualization using Matplotlib
+Style Plots using Matplotlib
+Line chart in matplotlib
+Bar Plot in Matplotlib
+Box Plot in Python using matplotlib
+Scatter Plot in Matplotlib
+Heatmap in Matplotlib
+Three-dimensional Plotting using Matplotlib
+Seaborn Kdeplot
+Data Visualization with Python Seaborn
+Interactive Data Visualization with Bokeh
+Time Series Plot or Line plot with Pandas
+Exploratory Data Analysis
+Set 1
+Set 2
+Exploratory Data Analysis on Iris Dataset
+Exploratory Data Analysis on Titanic Dataset
+Section 4: Data Analysis with R
+Importing Data
+Importing Data in R Script
+Import Data from a File in R
+Import a CSV File into R
+Data processing using R
+Data Frames in R
+DataFrame Manipulation
+Data Cleaning in R
+Working with Missing Data in R
+Data visualization using R
+Data visualization with R and ggplot2
+Scatter plots in R Language
+Graph Plotting in R Programming
+Visualizing Missing Data with Barplot in R
+Histograms in R language
+Boxplots in R Language
+Time series visualization with ggplot2 in R
+Exploratory Data Analysis in R
+Section 5: Web Scraping
+Introduction to Web Scraping
+What is Web Scraping and How to Use It?
+Web scraping with Python
+Web scraping from Wikipedia using Python
+Scraping Amazon Product Information using Beautiful Soup
+Web Scraping – Amazon Customer Reviews
+Scrape LinkedIn Using Selenium And Beautiful Soup in Python
+Web Scraping with R
+Extract all the URLs from the webpage Using R Language
+Section 6: Basic Stat Mathematics
+Mean, Standard Deviation and Variance
+—
+Implementation
+Derivative and Function minimization
+Probability Distributions[
+Set 1
+,
+Set 2
+,
+Set 3
+]
+Confidence Intervals
+Correlation and Covariance
+Random Variables
+Hypothesis Testing
+T-test
+Paired T-test
+p-value
+F-Test
+z-test
+Chi-squared Test
+ANOVA Test
+ANOVA Test using Python[
+One-way
+,
+Two-way
+]
+ANOVA Test using R
+F-Stats
+F-Stats With Python
+F-Stats With R
+Section 7: Machine Learning
+Supervised Learning
+Regression
+Linear Regression
+Regression Trees
+Non-Linear Regression
+Bayesian Linear Regression
+Polynomial Regression[
+Using Python,
+Using R
+]
+Classification
+Random Forest
+Decision Trees
+Logistic Regression
+Support Vector Machines
+Neural Networks
+Unsupervised Learning
+K-means clustering
+DBScan clustering
+KNN (k-nearest neighbours)
+Hierarchal clustering
+Anomaly detection
+Principle Component Analysis
+Decision Tree
+Decision Tree
+Implementing Decision tree
+Decision Tree Regression using sklearn
+Section 8: Deep Learning
+Introduction to Deep Learning
+Introduction to Artificial Neutral Networks
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks
+Generative Adversarial Networks (GANs)
+Radial Basis Function Networks (RBFNs)
+Multilayer Perceptrons (MLPs)
+Deep Learning with Python OpenCV
+Pneumonia Detection using Deep Learning
+Section 9: Natural Language Processing
+Introduction to Natural Language Processing
+Natural Language Processing
+Applications of NLP
+NLP Libraries
+Scikit-learn
+Natural language Toolkit (NLTK)
+Pattern
+TextBlob
+Query
+Text Preprocessing in Python | Set – 1
+Text Preprocessing in Python | Set 2
+Syntax Tree – Natural Language Processing
+Translation and Natural Language Processing using Google
+NLP analysis of Restaurant reviews
+FAQs on Data Science Tutorials for Beginners
+Q1: What is data science?
+Data science is a field that involves using techniques from statistics, mathematics, and computer science to analyze and draw insights from data.
+Q2: What skills do I need to be a data scientist?
+Data scientists typically need skills in statistics, machine learning, data visualization, and programming. Strong communication and critical thinking skills are also important.
+Q3: What programming languages should I learn for data science?
+Some popular programming languages for data science include Python, R, and SQL. It’s also helpful to have some familiarity with other languages like Java and C++.
+Q4: How long does it take to learn data science?
+Learning data science is an ongoing process that can take several months to several years, depending on your background and level of experience.
+Q5: What kind of jobs can I get with a background in data science?
+Some common job titles in data science include data analyst, data scientist, machine learning engineer, and business intelligence analyst.
+GeeksforGeeks
+Improve
+Next Article
+
+
+Blockquotes:
+Section 1: Python Basic
+Section 2: R Basic
+Section 3: Data Analysis with Python
+Section 4: Data Analysis with R
+Section 5: Web Scraping
+Section 6: Basic Stat Mathematics
+Section 7: Machine Learning
+Section 8: Deep Learning
+Section 9: Natural Language Processing
+Data science is a field that involves using techniques from statistics, mathematics, and computer science to analyze and draw insights from data.
+Data scientists typically need skills in statistics, machine learning, data visualization, and programming. Strong communication and critical thinking skills are also important.
+Some popular programming languages for data science include Python, R, and SQL. It’s also helpful to have some familiarity with other languages like Java and C++.
+Learning data science is an ongoing process that can take several months to several years, depending on your background and level of experience.
+Some common job titles in data science include data analyst, data scientist, machine learning engineer, and business intelligence analyst.
+
+Ordered List Items:
+1. Learn Programming: Programming is a fundamental skill for Data Science. Python is the most commonly used programming language in Data Science, and it has several libraries that are useful for Data Science, such as NumPy, Pandas, and Scikit-learn. You can start by learning the basics of Python programming.
+2. Learn Statistics: Statistics is the foundation of Data Science. Understanding statistical concepts such as mean, median, variance, and standard deviation is crucial for working with data. You can start by learning the basics of statistics.
+3. Learn Data Visualization: Data visualization is an essential skill for Data Science. It helps to understand patterns and trends in data. There are several libraries in Python that are useful for Data Visualization, such as Matplotlib and Seaborn.
+4. Learn Machine Learning: Machine learning is the core of Data Science. It involves building models that can learn from data and make predictions. There are several types of machine learning algorithms, such as supervised learning, unsupervised learning, and reinforcement learning. You can start by learning the basics of machine learning.
+5. Practice with Projects: Practice is essential for learning Data Science. You can start by working on small projects such as data cleaning, data analysis, and machine learning models. Kaggle is a platform where you can find data science projects and competitions to practice your skills.
+6. Learn from the Community: The Data Science community is very active, and there are several resources available to learn from. You can join online communities such as Reddit, LinkedIn, or Twitter. You can also attend local Data Science meetups and events.
+7. Continuously Learn: Data Science is a rapidly evolving field, and new techniques and tools are constantly emerging. Therefore, it’s essential to keep learning and stay updated with the latest trends and developments in Data Science.
+
+Unordered List Items:
+- Businessesare running today based on customer insight and that’s where data science comes from. With the help of data science, companies use Data Mining and sorting techniques to understand the area of interest of their users.
+- Today, data science is being actively used to trim unstructured and unorganized data that also consumes less time.
+- It helps in identifying the objective of a business and helps in reaching the goal (meanwhile it also helps in predicting the futuristic data based on the behavioural pattern)
+- It empowers your organization by allocating the best of the best people within your workforce. It helps insorting and filteringout the candidates from different platforms and that proportionally saves a lot of time also the chances of hiring a good candidate become more powerful.
+- Data Scientist,
+- Data Architect,
+- Data Administrator,
+- Data Analyst,
+- Business Analyst.
+- Business Understanding
+- Data Understanding
+- Preparation of Data
+- Exploratory Data Analysis
+- Data Modeling
+- Model Evaluation
+- Model Deployment
+- Search Engines,
+- Transport, Finance,
+- E-Commerce,
+- Health Care,
+- Image Recognition,
+- Targeting recommendations, etc.
+- Introduction of Python
+- Taking input in Python
+- Variables
+- Operators
+- Data Types
+- Conditions
+- Loops
+- Functions
+- Object-Oriented Programming
+- Exception Handling
+- Introduction to R Programming Language
+- Operators
+- Keywords
+- Data Types
+- Decision Making – if, if-else, if-else-if ladder, nested if-else, and switch
+- Loops (for, while, repeat)
+- Functions
+- Introduction to Object-Oriented ProgrammingClassesObjectsEncapsulationPolymorphismInheritance
+- Classes
+- Objects
+- Encapsulation
+- Polymorphism
+- Inheritance
+- Classes
+- Objects
+- Encapsulation
+- Polymorphism
+- Inheritance
+- What is Data Analysis
+- Data Analysis using Python
+- Steps of Data Analysis Process
+- Importing DataImport Excel file with PandasImport Text file with PandasRead JSON Files with Pandas
+- Import Excel file with Pandas
+- Import Text file with Pandas
+- Read JSON Files with Pandas
+- Data processingPandas DataFrameOverview of Data CleaningSlicing, Indexing, Manipulating and Cleaning Pandas DataframeWorking with Missing Data in PandasIdentify and Handle Missing Values
+- Pandas DataFrame
+- Overview of Data Cleaning
+- Slicing, Indexing, Manipulating and Cleaning Pandas Dataframe
+- Working with Missing Data in Pandas
+- Identify and Handle Missing Values
+- Data visualizationWhy is It Important?Data Visualization using MatplotlibStyle Plots using MatplotlibLine chart in matplotlibBar Plot in MatplotlibBox Plot in Python using matplotlibScatter Plot in MatplotlibHeatmap in MatplotlibThree-dimensional Plotting using MatplotlibSeaborn KdeplotData Visualization with Python SeabornInteractive Data Visualization with BokehTime Series Plot or Line plot with Pandas
+- Why is It Important?
+- Data Visualization using Matplotlib
+- Style Plots using Matplotlib
+- Line chart in matplotlib
+- Bar Plot in Matplotlib
+- Box Plot in Python using matplotlib
+- Scatter Plot in Matplotlib
+- Heatmap in Matplotlib
+- Three-dimensional Plotting using Matplotlib
+- Seaborn Kdeplot
+- Data Visualization with Python Seaborn
+- Interactive Data Visualization with Bokeh
+- Time Series Plot or Line plot with Pandas
+- Exploratory Data AnalysisSet 1Set 2Exploratory Data Analysis on Iris DatasetExploratory Data Analysis on Titanic Dataset
+- Set 1
+- Set 2
+- Exploratory Data Analysis on Iris Dataset
+- Exploratory Data Analysis on Titanic Dataset
+- Import Excel file with Pandas
+- Import Text file with Pandas
+- Read JSON Files with Pandas
+- Pandas DataFrame
+- Overview of Data Cleaning
+- Slicing, Indexing, Manipulating and Cleaning Pandas Dataframe
+- Working with Missing Data in Pandas
+- Identify and Handle Missing Values
+- Why is It Important?
+- Data Visualization using Matplotlib
+- Style Plots using Matplotlib
+- Line chart in matplotlib
+- Bar Plot in Matplotlib
+- Box Plot in Python using matplotlib
+- Scatter Plot in Matplotlib
+- Heatmap in Matplotlib
+- Three-dimensional Plotting using Matplotlib
+- Seaborn Kdeplot
+- Data Visualization with Python Seaborn
+- Interactive Data Visualization with Bokeh
+- Time Series Plot or Line plot with Pandas
+- Set 1
+- Set 2
+- Exploratory Data Analysis on Iris Dataset
+- Exploratory Data Analysis on Titanic Dataset
+- Importing DataImporting Data in R ScriptImport Data from a File in RImport a CSV File into R
+- Importing Data in R Script
+- Import Data from a File in R
+- Import a CSV File into R
+- Data processing using RData Frames in RDataFrame ManipulationData Cleaning in RWorking with Missing Data in R
+- Data Frames in R
+- DataFrame Manipulation
+- Data Cleaning in R
+- Working with Missing Data in R
+- Data visualization using RData visualization with R and ggplot2Scatter plots in R LanguageGraph Plotting in R ProgrammingVisualizing Missing Data with Barplot in RHistograms in R languageBoxplots in R LanguageTime series visualization with ggplot2 in R
+- Data visualization with R and ggplot2
+- Scatter plots in R Language
+- Graph Plotting in R Programming
+- Visualizing Missing Data with Barplot in R
+- Histograms in R language
+- Boxplots in R Language
+- Time series visualization with ggplot2 in R
+- Exploratory Data Analysis in R
+- Importing Data in R Script
+- Import Data from a File in R
+- Import a CSV File into R
+- Data Frames in R
+- DataFrame Manipulation
+- Data Cleaning in R
+- Working with Missing Data in R
+- Data visualization with R and ggplot2
+- Scatter plots in R Language
+- Graph Plotting in R Programming
+- Visualizing Missing Data with Barplot in R
+- Histograms in R language
+- Boxplots in R Language
+- Time series visualization with ggplot2 in R
+- Introduction to Web Scraping
+- What is Web Scraping and How to Use It?
+- Web scraping with PythonWeb scraping from Wikipedia using PythonScraping Amazon Product Information using Beautiful SoupWeb Scraping – Amazon Customer Reviews
+- Web scraping from Wikipedia using Python
+- Scraping Amazon Product Information using Beautiful Soup
+- Web Scraping – Amazon Customer Reviews
+- Scrape LinkedIn Using Selenium And Beautiful Soup in Python
+- Web Scraping with RExtract all the URLs from the webpage Using R Language
+- Extract all the URLs from the webpage Using R Language
+- Web scraping from Wikipedia using Python
+- Scraping Amazon Product Information using Beautiful Soup
+- Web Scraping – Amazon Customer Reviews
+- Extract all the URLs from the webpage Using R Language
+- Mean, Standard Deviation and Variance—Implementation
+- Derivative and Function minimization
+- Probability Distributions[Set 1,Set 2,Set 3]
+- Confidence Intervals
+- Correlation and Covariance
+- Random Variables
+- Hypothesis TestingT-testPaired T-testp-valueF-Testz-test
+- T-test
+- Paired T-test
+- p-value
+- F-Test
+- z-test
+- Chi-squared Test
+- ANOVA TestANOVA Test using Python[One-way,Two-way]ANOVA Test using R
+- ANOVA Test using Python[One-way,Two-way]
+- ANOVA Test using R
+- F-StatsF-Stats With PythonF-Stats With R
+- F-Stats With Python
+- F-Stats With R
+- T-test
+- Paired T-test
+- p-value
+- F-Test
+- z-test
+- ANOVA Test using Python[One-way,Two-way]
+- ANOVA Test using R
+- F-Stats With Python
+- F-Stats With R
+- Supervised LearningRegressionLinear RegressionRegression TreesNon-Linear RegressionBayesian Linear RegressionPolynomial Regression[Using Python,Using R]ClassificationRandom ForestDecision TreesLogistic RegressionSupport Vector MachinesNeural Networks
+- RegressionLinear RegressionRegression TreesNon-Linear RegressionBayesian Linear RegressionPolynomial Regression[Using Python,Using R]
+- Linear Regression
+- Regression Trees
+- Non-Linear Regression
+- Bayesian Linear Regression
+- Polynomial Regression[Using Python,Using R]
+- ClassificationRandom ForestDecision TreesLogistic RegressionSupport Vector Machines
+- Random Forest
+- Decision Trees
+- Logistic Regression
+- Support Vector Machines
+- Neural Networks
+- Unsupervised LearningK-means clusteringDBScan clusteringKNN (k-nearest neighbours)Hierarchal clusteringAnomaly detectionPrinciple Component Analysis
+- K-means clustering
+- DBScan clustering
+- KNN (k-nearest neighbours)
+- Hierarchal clustering
+- Anomaly detection
+- Principle Component Analysis
+- Decision TreeDecision TreeImplementing Decision treeDecision Tree Regression using sklearn
+- Decision Tree
+- Implementing Decision tree
+- Decision Tree Regression using sklearn
+- RegressionLinear RegressionRegression TreesNon-Linear RegressionBayesian Linear RegressionPolynomial Regression[Using Python,Using R]
+- Linear Regression
+- Regression Trees
+- Non-Linear Regression
+- Bayesian Linear Regression
+- Polynomial Regression[Using Python,Using R]
+- ClassificationRandom ForestDecision TreesLogistic RegressionSupport Vector Machines
+- Random Forest
+- Decision Trees
+- Logistic Regression
+- Support Vector Machines
+- Neural Networks
+- Linear Regression
+- Regression Trees
+- Non-Linear Regression
+- Bayesian Linear Regression
+- Polynomial Regression[Using Python,Using R]
+- Random Forest
+- Decision Trees
+- Logistic Regression
+- Support Vector Machines
+- K-means clustering
+- DBScan clustering
+- KNN (k-nearest neighbours)
+- Hierarchal clustering
+- Anomaly detection
+- Principle Component Analysis
+- Decision Tree
+- Implementing Decision tree
+- Decision Tree Regression using sklearn
+- Introduction to Deep Learning
+- Introduction to Artificial Neutral Networks
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks
+- Generative Adversarial Networks (GANs)
+- Radial Basis Function Networks (RBFNs)
+- Multilayer Perceptrons (MLPs)
+- Deep Learning with Python OpenCV
+- Pneumonia Detection using Deep Learning
+- Introduction to Natural Language Processing
+- Natural Language Processing
+- Applications of NLP
+- NLP LibrariesScikit-learnNatural language Toolkit (NLTK)PatternTextBlobQuery
+- Scikit-learn
+- Natural language Toolkit (NLTK)
+- Pattern
+- TextBlob
+- Query
+- Text Preprocessing in Python | Set – 1
+- Text Preprocessing in Python | Set 2
+- Syntax Tree – Natural Language Processing
+- Translation and Natural Language Processing using Google
+- NLP analysis of Restaurant reviews
+- Scikit-learn
+- Natural language Toolkit (NLTK)
+- Pattern
+- TextBlob
+- Query
+
